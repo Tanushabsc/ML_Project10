@@ -3,7 +3,7 @@ colorama==0.4.6
 iniconfig==2.3.0
 joblib==1.6.0
 narwhals==2.26.0
-numpy==2.5.3
+numpy==2.3.5
 packaging==26.3
 pluggy==1.6.0
 Pygments==2.21.0
